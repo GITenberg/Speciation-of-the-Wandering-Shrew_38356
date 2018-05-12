@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '35694'
     url: http://www.gutenberg.org/2009/agents/35694
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38356#Speciation-of-the-Wandering-Shrew
 gutenberg_bookshelf:
 - Animal
 - Animals-Wild-Mammals
