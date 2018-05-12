@@ -1,0 +1,29 @@
+_repo: Speciation-of-the-Wandering-Shrew_38356
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38356-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Findley, James S. (James Smith)
+    alias: Findley, James Smith
+    birthdate: 1926
+    gutenberg_agent_id: '35694'
+    url: http://www.gutenberg.org/2009/agents/35694
+description: ''
+gutenberg_bookshelf:
+- Animal
+- Animals-Wild-Mammals
+gutenberg_issued: '2011-12-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38356'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shrews'
+- !lcc 'QH'
+title: Speciation of the Wandering Shrew
+url: http://www.gutenberg.org/ebooks/38356
